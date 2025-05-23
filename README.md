@@ -18,7 +18,7 @@ This project is a web application built with Streamlit that converts natural lan
 
 ## Database Schema
 
-The SQL queries are generated based on the following schema in a Synapse SQL warehouse:
+The SQL queries are generated based on the following schema in a Synapse SQL warehouse :
 
 1. **Profile**
    - `contactID` (Primary Key)

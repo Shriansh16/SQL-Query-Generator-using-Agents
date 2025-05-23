@@ -111,3 +111,4 @@ Ensure this query is correct and matches the intent. If any issues are found, fi
         # Output the final result
         st.markdown("### Final SQL Query:")
         st.code(result, language='sql')
+
